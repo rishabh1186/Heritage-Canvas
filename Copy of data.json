@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Taj Mahal",
+    "coords": [27.1751, 78.0421],
+    "category": "monuments_and_architecture",
+    "year": 1653,
+    "info": "An iconic ivory-white marble mausoleum, the most famous monument in India.",
+    "image_url": "images/Taj_Mahal.jpg"
+  },
+  {
+    "name": "Red Fort",
+    "coords": [28.6562, 77.2410],
+    "category": "monuments_and_architecture",
+    "year": 1648,
+    "info": "A historic fort in Old Delhi that served as the main residence of the Mughal Emperors.",
+    "image_url": "images/red_fort.jpg"
+  },
+  {
+    "name": "Hawa Mahal",
+    "coords": [26.9239, 75.8267],
+    "category": "monuments_and_architecture",
+    "year": 1799,
+    "info": "The 'Palace of Winds' in Jaipur, Rajasthan, known for its intricate honeycomb facade.",
+    "image_url": "images/hawa_mahal.jpg"
+  },
+  {
+    "name": "Ghats of Kashi",
+    "coords": [25.3176, 82.9739],
+    "category": "spiritual_and_pilgriange",
+    "year": 1400,
+    "info": "The riverfront steps leading to the banks of the River Ganges in Varanasi.",
+    "image_url": "images/kashi.jpg"
+  },
+  {
+    "name": "Ajanta Caves",
+    "coords": [20.5517, 75.7032],
+    "category": "monuments_and_architecture",
+    "year": 480,
+    "info": "Ancient rock-cut Buddhist cave monuments in Maharashtra dating back to the 2nd century BCE.",
+    "image_url": "images/ajanta_caves.jpg"
+  },
+  {
+    "name": "Madhubani Art",
+    "coords": [26.3768, 86.0717],
+    "category": "folk_arts_and_handcrafts",
+    "year": 1500,
+    "info": "A famous folk painting style from the Mithila region of Bihar, traditionally done by women.",
+    "image_url": "images/art.jpg"
+  },
+  {
+    "name": "Indian Pottery",
+    "coords": [26.8467, 80.9462],
+    "category": "folk_arts_and_handcrafts",
+    "year": 1700,
+    "info": "A traditional craft representing the artistry and skill of Indian craftsmen.",
+    "image_url": "images/craftsmen.jpg"
+  },
+  {
+    "name": "Warli Painting",
+    "coords": [19.9678, 73.0805],
+    "category": "folk_arts_and_handcrafts",
+    "year": 2500,
+    "info": "An ancient tribal art form from Maharashtra, using geometric shapes to depict life and nature.",
+    "image_url": "images/warli_painting.jpg"
+  },
+  {
+    "name": "Kathak Dance",
+    "coords": [26.8467, 80.9462],
+    "category": "music_and_dance",
+    "year": 1800,
+    "info": "A classical dance form from Uttar Pradesh, known for its rhythmic footwork.",
+    "image_url": "images/kathak.jpg"
+  },
+  {
+    "name": "Manipuri Dance",
+    "coords": [24.8170, 93.9368],
+    "category": "music_and_dance",
+    "year": 1500,
+    "info": "A classical dance form from Manipur, characterized by gentle, flowing movements.",
+    "image_url": "images/manipuri_dance.jpg"
+  },
+  {
+    "name": "Chole Bhature",
+    "coords": [28.7041, 77.1025],
+    "category": "cuisine",
+    "year": 1940,
+    "info": "A popular North Indian dish of spiced chickpeas and fried bread.",
+    "image_url": "images/chola_bhatura.jpg"
+  },
+  {
+    "name": "Hyderabadi Haleem",
+    "coords": [17.3850, 78.4867],
+    "category": "cuisine",
+    "year": 1600,
+    "info": "A popular mixed rice dish with spices, meat, or vegetables, believed to have Mughal origins.",
+    "image_url": "images/hyderabadi_haleem.jpg"
+  }
+]
