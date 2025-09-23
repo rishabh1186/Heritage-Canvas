@@ -145,4 +145,4 @@ document.addEventListener('DOMContentLoaded', () => {
   setTimeout(() => {
     map.invalidateSize();
   }, 500);
-});
+});
